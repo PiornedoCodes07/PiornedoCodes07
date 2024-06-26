@@ -18,7 +18,8 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/https_pedrox" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" target="_blank"></a>
-  <a href="https://wa.me/554399164473" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/https_pedrox" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  <a href="https://wa.me/554399164473" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
