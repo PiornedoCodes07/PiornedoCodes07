@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do PiornedoCodes07 😁
+## Bem-vindo(a) ao perfil do Pedro Piornedo
 
  <div>
    <a href="https://github.com/PiornedoCodes07">
